@@ -1,0 +1,38 @@
+body{
+	font-size: 16px;
+}
+section{
+	
+	padding-bottom: 50px;
+	position: relative;
+
+}
+
+
+section article{
+	border: none;
+	margin: 30px 10px 0px 0px;
+	padding: 0 auto;
+	width: 80%;	
+}
+section article p {
+	color:#fff;
+	font-family:helvetica;
+	font-size: 20px;
+	text-align: justify;|
+}
+section article h3 {
+	font-size: 40px;
+	font-weight: normal;
+	margin: 0;
+	color: #FFB000;
+	padding: 10px;
+	text-align: center;
+	text-shadow: 0 2px 1px #000;
+	font-family: 'Luckiest Guy',Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,Gadget,sans-serif;
+	text-transform: uppercase;
+}
+
+ .desenfoque{
+                    -webkit-filter: blur(3px);  
+                }
